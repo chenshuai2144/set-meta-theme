@@ -1,1 +1,1 @@
-## Hello @umijs/set-meta-theme-color-color
+## Hello @umijs/set-meta-theme-color

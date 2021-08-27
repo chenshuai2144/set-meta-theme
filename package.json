@@ -1,5 +1,5 @@
 {
-  "name": "@umijs/set-meta-theme-color-color",
+  "name": "@umijs/set-meta-theme-color",
   "version": "1.0.0",
   "scripts": {
     "start": "dumi dev",
