@@ -23,6 +23,4 @@ function setThemeColorMeta(dartOrColor: boolean | string) {
   } catch (error) {}
 }
 
-export { setThemeColorMeta as setColor };
-
 export { setThemeColorMeta };
