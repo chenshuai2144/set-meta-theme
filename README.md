@@ -1,4 +1,4 @@
-# set-meta-theme-color
+# @umijs/set-meta-theme-color-color
 
 ## Getting Started
 

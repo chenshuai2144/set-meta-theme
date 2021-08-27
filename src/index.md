@@ -4,7 +4,7 @@ Demo:
 
 ```tsx
 import React from 'react';
-import { setThemeColorMeta } from 'set-meta-theme-color-color';
+import { setThemeColorMeta } from '@umijs/set-meta-theme-color-color';
 
 export default () => (
   <a
